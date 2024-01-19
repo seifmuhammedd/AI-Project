@@ -10,5 +10,5 @@ Supported with a simple GUI :
 
 
 <center>
-    <img src="[path/to/your/photo.jpg](https://github.com/seifmuhammedd/Automated-OCR/assets/105271040/68e06fd4-9169-4fab-ae31-7aabadc38653)https://github.com/seifmuhammedd/Automated-OCR/assets/105271040/68e06fd4-9169-4fab-ae31-7aabadc38653" alt="Your Photo" width="400"/>
+    <img src="C:\Users\DELL\Desktop\NoteBook\AI Project\Picture1.jpg" alt="Your Photo" width="400"/>
 </center>
