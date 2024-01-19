@@ -7,5 +7,6 @@ Supported with a simple GUI:
 
 
 
+
 ![Picture1](https://github.com/seifmuhammedd/Automated-OCR/assets/105271040/66bcd72b-adad-4877-97cd-8d1bac44e73f)
 
